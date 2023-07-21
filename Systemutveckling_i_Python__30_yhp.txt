@@ -1,0 +1,18 @@
+Kursöversikt
+
+Systemutveckling i Python, 30 yhp
+
+Innehåll
+I den här kursen kommer den studerande att erhålla kunskaper och färdigheter inom programmering i Python. Den studerande kommer att introduceras i grundläggande datastrukturer, grunderna i objektorienterad programmering.
+
+Mål
+Den studerande skall efter genomförd kurs med godkänt resultat kunna:
+
+Kunskaper
+
+om Pythons, syntax, funktioner, variabler och datatyper
+om användningstillämpningar av Python som skriptspråk i t.ex. systemautomation, skalskript, inbyggda system eller webserverskript
+Färdigheter (dessa är alla i rollerna Systemutvecklare Python samt Devops Engineer)
+
+i grundläggande systemutveckling i Python 
+i objektorienterad såväl som funktionell programmering i Python
